@@ -22,5 +22,7 @@ Frontend Developer passionate about building modern and responsive web applicati
 ## 📫 Connect With Me
 
 phone: +98-992-600-9882
+
 Gmail: mehdyysadeghi@gmail.com
+
 GitHub: https://github.com/MehdySadeghi
